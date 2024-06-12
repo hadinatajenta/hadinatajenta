@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hadinatajenta
 
-I am a fresh graduate from the Sumatera Institute of Technology, majoring in Computer Engineering with a concentration in Software Engineer & Information System. With over a year of experience, I specialize in Website and Mobile Development using frameworks like Laravel, React,  and React Native. I'm also proficient in HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind CSS, ReactJS, MySQL, Python, React, React Native, Node, Figma, and Adobe XD.
+I'm graduate from the Sumatera Institute of Technology, majoring in Computer Engineering with a concentration in Software Engineer & Information System.  I specialize in Website and Mobile Development using  like Laravel, React,  and React Native. I'm also proficient in HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind CSS, ReactJS, MySQL, Python, React, React Native, Node, Figma, and Adobe XD.
 
 ## 👀 I’m interested in ...
 
@@ -10,12 +10,12 @@ I am a fresh graduate from the Sumatera Institute of Technology, majoring in Com
 
 ## 🌱 I’m currently learning 
 
-- Advanced concepts in Full Stack Web Development
-- Latest trends in web technologies and frameworks
+- Advanced concepts in Full Stack Development
+- Latest trends in technologies and frameworks
 
 ## 💞️ I’m looking to collaborate on ...
 
-- Web development projects that require expertise in Laravel, ReactJS, or any of the mentioned technologies
+- Software development projects that require expertise in Laravel,Lumen, Livewire, ReactJS, NodeJS, React Native  or any of the mentioned technologies
 - Projects focusing on innovative web solutions and user experience
 
 ## 📫 How to reach me ...
